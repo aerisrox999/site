@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contatos - Sabores do Mundo</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Sabores do Mundo</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="receitas.html">Receitas Tradicionais</a></li>
+                <li><a href="dicas.html">Dicas de Cozinha</a></li>
+                <li><a href="internacional.html">Gastronomia Internacional</a></li>
+                <li><a href="contatos.html">Contatos</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Contatos</h2>
+        <p>Entre em contato conosco:</p>
+        <ul>
+            <li>Email: contato@saboresdomundo.com</li>
+            <li>Instagram: @saboresdomundo</li>
+            <li>Facebook: Sabores do Mundo</li>
+        </ul>
+    </main>
+    <footer>
+        <p>&copy; 2024 Sabores do Mundo. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
