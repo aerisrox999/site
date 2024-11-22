@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dicas de Cozinha - Sabores do Mundo</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Sabores do Mundo</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="receitas.html">Receitas Tradicionais</a></li>
+                <li><a href="dicas.html">Dicas de Cozinha</a></li>
+                <li><a href="internacional.html">Gastronomia Internacional</a></li>
+                <li><a href="contatos.html">Contatos</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Dicas de Cozinha</h2>
+        <p>Descubra dicas práticas para facilitar seu dia a dia na cozinha. Desde truques para conservar alimentos até formas de otimizar o preparo de suas receitas favoritas!</p>
+        <section>
+            <h3>Dicas Rápidas:</h3>
+            <ul>
+                <li><strong>Organize sua cozinha:</strong> Separe os ingredientes antes de começar a cozinhar. Isso economiza tempo e evita erros.</li>
+                <li><strong>Afie suas facas:</strong> Uma faca bem afiada é mais segura e eficiente.</li>
+                <li><strong>Use ervas frescas:</strong> Elas dão mais sabor às receitas e deixam os pratos com um aroma incrível.</li>
+                <li><strong>Temperos no final:</strong> Sal e pimenta devem ser ajustados ao final para não errar na mão.</li>
+                <li><strong>Evite o desperdício:</strong> Congele sobras de alimentos em porções para usar em outras receitas.</li>
+            </ul>
+        </section>
+        <section>
+            <h3>Equipamentos Essenciais:</h3>
+            <p>Invista em utensílios que farão a diferença, como:</p>
+            <ul>
+                <li>Panela de ferro para cozinhar uniformemente.</li>
+                <li>Balança digital para medir ingredientes com precisão.</li>
+                <li>Liquidificador ou processador de alimentos para preparos rápidos.</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Sabores do Mundo. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
