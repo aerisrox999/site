@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gastronomia Internacional - Sabores do Mundo</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Sabores do Mundo</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="receitas.html">Receitas Tradicionais</a></li>
+                <li><a href="dicas.html">Dicas de Cozinha</a></li>
+                <li><a href="internacional.html">Gastronomia Internacional</a></li>
+                <li><a href="contatos.html">Contatos</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Gastronomia Internacional</h2>
+        <p>Explore o sabor e a cultura de diferentes países. A culinária internacional nos ensina que a comida é uma forma de se conectar com o mundo!</p>
+        <section>
+            <h3>Pratos Famosos:</h3>
+            <ul>
+                <li><strong>França:</strong> <em>Ratatouille</em>, croissant e quiche Lorraine.</li>
+                <li><strong>Itália:</strong> Pizza margherita, risoto de açafrão e tiramisù.</li>
+                <li><strong>Japão:</strong> Sushi, ramen e tempura.</li>
+                <li><strong>Índia:</strong> Curry, naan e biryani.</li>
+                <li><strong>México:</strong> Tacos, guacamole e enchiladas.</li>
+            </ul>
+        </section>
+        <section>
+            <h3>Fatos Interessantes:</h3>
+            <ul>
+                <li><strong>Paella espanhola:</strong> Tradicionalmente feita com frutos do mar e arroz cultivado na região de Valência.</li>
+                <li><strong>Queijos franceses:</strong> Existem mais de 400 tipos diferentes de queijos na França.</li>
+                <li><strong>Culinária tailandesa:</strong> Combina sabores doces, salgados, ácidos e picantes em um único prato.</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Sabores do Mundo. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
